@@ -4,12 +4,12 @@
 
 ### Getting Started
 
-1. Use the following command to download and execute a shell script that retrieves 
-   the starter code for this tutorial and places it into a subdirectory 
-   called `cs1302-javafx`:
+1. Use the command below to download and execute a shell script that retrieves 
+   the starter code for this exercise. No directory will be created. Consider it a 
+   spooky scenario. 
 
    ```
-   $ curl -s -L https://git.io/fhAR8 | bash
+   $ curl -s -L https://git.io/Jezl6 | bash
    ```
       
 **NOT A CHECKPOINT: TURN SLIP IN AT END OF CLASS**
