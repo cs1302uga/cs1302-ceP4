@@ -17,6 +17,7 @@ echo ""
 echo "* No checkpoint signatures will be given for this exerise, however, slips will be collected at the end of class. Furthermore, slips will only be accepted at the end of class."
 echo ""
 read -n 1 -s -r -p "Press any key to continue..."
+
 echo ""
 echo ""
 echo " .-."
